@@ -1,0 +1,30 @@
+h1{
+    font-family: 'Lora', serif;
+    margin-left:100px;
+}
+.starter{
+    font-family: 'Inter', sans-serif;
+    background:white;
+    color: black;
+    border: none;
+    border-radius: 20px;
+    height: 40px ;
+    width: 300px;
+    font-size: 20px;
+}
+canvas{
+    box-shadow: 5px 5px 5px black;
+    border-radius: 20px;
+    margin-top: 100px;
+}
+body{
+    font-family: 'Lora', serif;
+}
+
+.back{    
+    float: right;
+    margin: 20px;
+    width: 75px;
+    height: 40px;
+
+}
